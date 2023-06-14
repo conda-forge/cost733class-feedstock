@@ -19,7 +19,7 @@ fortran_compiler:
 fortran_compiler_version:
 - '12'
 netcdf_fortran:
-- '4.5'
+- '4.6'
 target_platform:
 - linux-64
 zip_keys:
